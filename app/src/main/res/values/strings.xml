@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Speech N Images To Text</string>
+
+    //Heading
+    <string name="heading_one">Selamat Datang</string>
+
+    // Description
+    <string name="desc_one">Hemat waktu dan tingkatkan produktivitas Anda dengan pengenalan ucapan-ke-teks aplikasi kami. Tidak perlu lagi mengetik, cukup ucapkan dan biarkan aplikasi melakukan sisanya.</string>
+    <string name="desc_two">menampilkan fitur gambar-ke-PDF membuat Anda agar lebih mudah mengubah gambar Anda menjadi sebuah file PDF yang dipoles dan dapat dibagikan.</string>
+
+    //Home
+    <string name="hai">Hello,</string>
+    <string name="welcome">Welcome to SnIT</string>
+    <string name="btn_speech">Speech to Text</string>
+    <string name="btn_image">Image to Text</string>
+    <string name="btn_speech_desc">Ubah Suara Kamu Menjadi Text</string>
+    <string name="btn_image_desc">Ubah Gambar Kamu Menjadi Text</string>
+
+    //ImagePage
+    <string name="image_text">Image to Text</string>
+    <string name="back_image">Kembali</string>
+    <string name="choose_files">Choose yours files from</string>
+    <string name="choose_desc">Kamera atau pilih Gambar yang ingin ubah menjadi sebuah text</string>
+    <string name="camera">Kamera</string>
+    <string name="images">Gambar</string>
+    <string name="use_camera_desc">Gunakan Kamera</string>
+    <string name="use_images_desc">Gunakan Gambar yang ingin diubah</string>
+    <string name="copyright">Copyright 2023 by Adam</string>
+    <string name="take_again">Pilih Gambar</string>
+    <string name="head_choose">Silahkan copy file text yang telah kamu ubah</string>
+
+    //CameraPage
+    <string name="camera_text">Camera to Text</string>
+    <string name="take_again_camera">Ambil Gambar</string>
+
+
+    //SpeechPage
+    <string name="back_speech">Kembali</string>
+    <string name="speech_text">Speech to Text</string>
+    <string name="text_speech">Text to Speech</string>
+    ///SpeechToText
+    <string name="speech_text_desc">Ubah suara kamu menjadi sebuah Text</string>
+    ///TextToSpeech
+    <string name="text_speech_desc">Ubah text menjadi sebuah Suara kamu</string>
+
+    //CustomSave
+    <string name="tvSave">Nama File</string>
+    <string name="btnSave">Simpan</string>
+    <string name="btnCancelSave">Tidak</string>
+    <string name="hintSave">Masukkan Nama File</string>
+
+</resources>
